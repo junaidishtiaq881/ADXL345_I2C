@@ -1,0 +1,2 @@
+# ADXL345_I2C
+ADXL345_I2C_Single_DoubleTap Detection
